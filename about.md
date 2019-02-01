@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Over
 permalink: /about/
 ---
 
-Some information about you!
+## Wat? 
+Een luchtige maar wetenschappelijke kijk op fascinerende (bio)tech, die wel eens een impact kan hebben op je leven.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+## Doel? 
+Enerzijds om een kijkje geven in cutting-edge wetenschap en hoe die vooruitgang boekt, anderzijds om positief en interessant nieuws over te brengen aan mensen met eender welke achtergrond.
