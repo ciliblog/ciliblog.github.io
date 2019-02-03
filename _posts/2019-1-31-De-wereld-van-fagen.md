@@ -12,7 +12,6 @@ Stel u voor: we bevinden ons in 2050. Bijna alle bacteriën zijn nu resistent ge
 
 Een faag is een virus. Virussen behoren tot de meest eenvoudige biologische entiteiten op de planeet. Ze zijn zo eenvoudig dat ze steeds een ander biologisch organisme nodig hebben om te kunnen voortplanten, om te kunnen overleven. Die biologische 'partner' noemt men de gastheer. Fagen zijn zeer kleine, eenvoudige virussen die bacteriën als gastheer hebben. Aangezien bacteriën op zeer diverse plekken voorkomen, vinden we ook fagen op zeer veel plekken terug. Zelfs in ons eigen lichaam zijn continu fagen aanwezig! Ze zorgen er voor het behouden van de balans tussen verschillende bacteriesoorten en dragen zo bij tot een gezond microbioom. Fagen infecteren dus bacteriën, waardoor we ze kunnen gebruiken om bacteriën te bestrijden. Inderdaad, in de laatste stap van hun levenscyclus gaan vele fagen hun bacteriële gastheer afdoden zodat zijzelf opnieuw kunnen verspreiden naar nieuwe gastheren. 
 </p>
-<br>
 
 ##### Fagen zijn een duurzame oplossing
 
@@ -21,7 +20,6 @@ Daarnaast zijn fagen een duurzame oplossing, omwille van twee belangrijke redene
 
 Daarnaast evolueren fagen ook mee met bacteriën (een proces dat co-evolutie wordt genoemd). Zowel bacteriën als hun fagen zijn onder continue druk om te evolueren. Bacteriën kunnen zich aanpassen om resistent te worden tegen infectie van een faag. Echter, fagen hebben hun bacteriële gastheer expliciet nodig om te overleven. Hierdoor staan ook zij onder continue druk om zich aan te passen, zodat ze hun gastheer niet permanent verliezen! Dit co-evolutionaire proces is al miljarden jaren aan de gang. Fagen vormen dus een duurzame oplossing in het bestrijden van bacteriën, aangezien we eenvoudigweg de natuur zijn gang kunnen laten gaan.
 </p>
-<br>
 
 ##### Wat kunnen fagen voor ons doen?
 
@@ -30,7 +28,6 @@ Fagen kunnen van pas komen om bacteriën te bestrijden in verscheidene scenario'
 
 Ook in de voedingsindustrie zorgen bacteriën voor belangrijke verliezen. Verschillende studies toonden al aan dat fagen ook hier gebruikt kunnen worden om bacteriën te bestrijden, bijvoorbeeld op verse groenten en fruit.
 </p>
-<br>
 
 ##### Vragen of ideeën?
 
