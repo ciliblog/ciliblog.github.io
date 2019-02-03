@@ -3,8 +3,7 @@ layout: post
 title: De wereld van fagen
 ---
 
-![phages](../../images/lots_of_phages2.jpeg)
-
+![fagen](../../images/lots_of_phages2.jpeg)
 <br>
 
 <p align="justify">
@@ -14,6 +13,9 @@ Een faag is een virus. Virussen behoren tot de meest eenvoudige biologische enti
 </p>
 
 ##### Fagen zijn een duurzame oplossing
+
+![coevolutie](../../images/coev.jpeg)
+<br>
 
 <p align="justify">
 Daarnaast zijn fagen een duurzame oplossing, omwille van twee belangrijke redenen: fagen werken specifiek en ze kunnen met hun bacteriële gastheer mee evolueren. Vele klassieke antibiotica zijn niet specifiek (genoeg), waardoor ze nefaste effecten kunnen hebben op de nuttige bacteriën in ons lichaam. Fagen zijn daarentegen zeer specifiek: ze kunnen vaak slechts één bepaalde soort bacterie of zelfs enkele bacteriestammen binnen een soort infecteren. 
