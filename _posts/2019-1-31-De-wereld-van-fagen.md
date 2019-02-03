@@ -7,7 +7,7 @@ title: De wereld van fagen
 <br>
 
 <p align="justify">
-Stel u voor: we bevinden ons in 2050. Bijna alle bacteriën zijn nu resistent geworden aan de antibiotica waarmee we ze ooit eenvoudig konden bestrijden. Sterker nog, ieder jaar sterven nu enkele miljoenen mensen aan allerhande infecties die vroeger eenvoudig te behandelen waren. Infecties door ‘superbacteriën’ zijn nu een van de belangrijkste doodsoorzaken geworden. Gelukkig genoeg zijn we nog niet in 2050, en kunnen we dit scenario vermijden. En wel door fagen te gebruiken om bacteriën te bestrijden. Fagen, hoor ik u denken?! Wat zijn dat?
+Stel u voor: we bevinden ons in 2050. Bijna alle bacteriën zijn nu resistent geworden aan de antibiotica waarmee we ze ooit eenvoudig konden bestrijden. Sterker nog, ieder jaar sterven nu enkele miljoenen mensen aan allerhande infecties die vroeger eenvoudig te behandelen waren. Infecties door ‘superbacteriën’ zijn nu een van de belangrijkste doodsoorzaken geworden. Gelukkig zijn we nog niet in 2050, en kunnen we dit scenario vermijden. En wel door fagen te gebruiken om bacteriën te bestrijden. Fagen, hoor ik u denken?! Wat zijn dat?
 </p>
 
 <p align="justify">
