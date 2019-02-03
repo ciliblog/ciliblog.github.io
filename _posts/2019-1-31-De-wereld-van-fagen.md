@@ -34,7 +34,7 @@ Fagen kunnen van pas komen om bacteriën te bestrijden in verscheidene scenario'
 </p>
 
 <p align="justify">
-Ook in de voedingsindustrie zorgen bacteriën voor belangrijke verliezen. Verschillende studies toonden al aan dat fagen ook hier gebruikt kunnen worden om bacteriën te bestrijden, bijvoorbeeld op verse groenten en fruit.
+Ook in de voedingsindustrie zorgen bacteriën voor belangrijke verliezen. Verschillende studies toonden al aan dat fagen ook hier gebruikt kunnen worden om bacteriën te bestrijden, bijvoorbeeld op verse groenten en fruit (voor de fanatiekelingen, zie Endersen et al., 2014).
 </p>
 
 ##### Vragen of ideeën?
