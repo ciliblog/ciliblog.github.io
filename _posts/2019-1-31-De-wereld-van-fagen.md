@@ -4,7 +4,11 @@ title: De wereld van fagen
 ---
 
 ![fagen](../../images/lots_of_phages2.jpeg)
-{% include reading-time.html %} 
+<div style="font-size: 16px; color: grey">
+  <i>
+  {% include reading-time.html %}
+  </i>
+</div>
 <br>
 
 <p align="justify">
