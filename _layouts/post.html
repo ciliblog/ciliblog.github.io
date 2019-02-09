@@ -6,6 +6,9 @@ layout: default
   <h1 style="text-align: center; font-size: 35px; padding-bottom: 2em;">{{ page.title }}</h1>
 
   <div class="entry">
+      <div style="font-size: 16px; color: grey">
+          {% include reading-time.html %}
+      </div>
     {{ content }}
   </div>
   {% include share-buttons.html %}
