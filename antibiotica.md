@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Antibiotica
+title: Wat als onze antibiotica niet meer werken?
 permalink: /antibiotica/
 ---
 
