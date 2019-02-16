@@ -17,9 +17,11 @@ html {
   font-size: 100%;
 }
 
+$base-font-family: 'Arvo', "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 body {
   background: $white;
-  font: 18px/1.5 $karla;
+  font: 18px/1.5 $helveticaNeue;
   color: $darkGray;
 }
 
