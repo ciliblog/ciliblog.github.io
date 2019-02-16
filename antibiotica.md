@@ -18,7 +18,7 @@ Antibiotica heeft ons al vele tientallen jaren gered van ernstige pathogenen. He
 Het vervelende aan de zaak is dat resistentie een natuurlijk proces is. Darwin legt uit dat het fitste individu de beste kans heeft om zich voort te planten. Toevallige mutaties in het DNA van bacteriën kan ervoor zorgen dat zij de behandeling van een antibioticum overleven, ze zijn resistent geworden.  Deze ‘fitte’ individuen kunnen dan verder voortplanten, waardoor de resistentie zich verspreid. Daarenboven kunnen genen voor resistentie ook voorkomen op zogenaamde plasmiden die uitgewisseld kunnen worden tussen bacteriën. Hierdoor verspreid de resistentie niet alleen van generatie op generatie (verticaal) maar ook horizontaal! Visueel is dit beter voor te stellen: onderstaande grafiek toont de periodes tussen de ontdekkingen van verschillende antibiotica en de eerst gekende resistenties tegen die antibiotica. Geen enkel antibioticum werkt voor altijd.
 </p>
 
-![antibiotica_resistentie](../../images/antibiotica_resistentie.png)
+![antibiotica_resistentie](../../images/antibiotica_evolutie.png)
 <br>
 
 ### Hoe ziet de situatie er vandaag uit?
