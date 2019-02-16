@@ -38,6 +38,6 @@ Wetenschappers hebben al aan verschillende alternatieven gedacht om pathogenen t
 ### Vragen of suggesties?
 
 <p align="justify">
-Heb je vragen? Of heb je ideeën over onderwerpen die je besproken wilt zien? Laat het mij zeker weten! In deze blog kan je inspirerende (bio)tech verwachten die eenvoudig wordt uitgelegd. De focus zal liggen op wetenschappelijke vooruitgang die nuttig kan zijn in het dagelijkse leven. Hoe denk jij dat (bio)tech jouw dagelijkse leven nog zou kunnen verbeteren?
+Heb je vragen? Of heb je ideeën over onderwerpen die je besproken wilt zien? Laat het mij gerust weten! In deze blog kan je inspirerende (bio)tech verwachten die eenvoudig wordt uitgelegd. De focus zal liggen op wetenschappelijke vooruitgang die nuttig kan zijn in het dagelijkse leven. Hoe denk jij dat (bio)tech jouw dagelijkse leven nog zou kunnen verbeteren?
 </p>
 
