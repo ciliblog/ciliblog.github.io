@@ -19,12 +19,12 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.5 'Verdana';
+  font: 18px/1.5 $helveticaNeue;
   color: $darkGray;
 }
 
 .container {
-  margin: 5px auto;
+  margin: 20px auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
