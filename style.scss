@@ -19,7 +19,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.5 $helveticaNeue;
+  font: 18px/1.5 'Arial';
   color: $darkGray;
 }
 
@@ -27,7 +27,7 @@ body {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
-  width: 100%;
+  width: 95%;
 }
 
 h1, h2, h3, h4, h5, h6 {
