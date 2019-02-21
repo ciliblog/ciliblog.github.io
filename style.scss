@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-  margin: 0 auto;
+  margin: 5px auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
@@ -254,7 +254,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 5px solid $gray;
+    border-left: 1px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
