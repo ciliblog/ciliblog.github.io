@@ -21,10 +21,6 @@ body {
   background: $white;
   font: 18px/1.5 $helveticaNeue;
   color: $darkGray;
-	
-  @include mobile {
-    font-size: 10;
-  }
 }
 
 .container {
@@ -263,6 +259,10 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
+  }
+	
+  @include mobile {
+    font-size: 10;
   }
 
   .comments {
