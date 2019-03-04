@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hoe computers meer en meer kunnen
-header-img: ../../images/computers_image_1.png
+header-img: ../../images/computers_head.png
 permalink: /computers/
 ---
 
