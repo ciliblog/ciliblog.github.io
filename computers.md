@@ -5,7 +5,7 @@ header-img: ../../images/computers_head.png
 permalink: /computers/
 ---
 
-![computers](../../images/computers_image_1.png)
+![computers](../../images/computers_image1.png)
 <br>
 
 ### Technologische vooruitgang gaat snel
@@ -16,7 +16,7 @@ Vandaag de dag zijn computers daarentegen niet meer weg te denken uit het dageli
 
 Vandaag kunnen computers veel. We gebruiken ze om te communiceren, op de hoogte blijven van het nieuws, wiskundige formules uit te rekenen, muziek mee te luisteren, foto’s mee te trekken en nog veel meer. Het is bijna absurd hoe multifunctioneel een computer en een smartphone zijn geworden.
 
-![computers](../../images/computers_image_2.png)
+![computers](../../images/computers_image_2.jpg)
 <br>
 
 Als je terug zou gaan de kindertijd van je ouders en hun zou zeggen dat je in 2019 met een klein toestel in je broekzak loopt dat je perfect de weg wijst van eender welk punt A naar punt B (via auto, openbaar vervoer of fiets), dan zouden ze je niet geloven. Als je hen zou vertellen dat dat toestel ook nog kan antwoorden op quasi elke vraag dat je het stelt, dan zouden ze al helemaal achterovervallen. Het zou mij dan ook niet verbazen dat ikzelf zou achterovervallen moest iemand van 2050 terugreizen naar nu om ons te vertellen wat er in de toekomst allemaal mogelijk is geworden.
@@ -34,3 +34,6 @@ Er zijn echter ook beperkingen aan de slimme algoritmen van vandaag. Als je comp
 Het gaat nóg verder. Misschien wel het meest verbazingwekkende bedrijf is [Neuralink]( https://www.neuralink.com). Het team van Neuralink wil een rechtstreekse connectie maken tussen de hersenen en computers. Vandaag leer je nieuwe informatie door het te lezen, horen of zien. Op de grens van ‘science’ en ‘fiction’ wil het bedrijf via een supersnelle connectie jouw hersenen aan het internet koppelen zodat je informatie direct kan gebruiken, zonder die informatie eerst te moeten lezen of horen. Deze technologie staat uiteraard nog maar in zijn kinderschoenen dus is het natuurlijk nog afwachten hoe zoiets zou werken en wat de mogelijkheden zijn.
 
 Alleszins, in mijn ogen zal de toekomst enkel technologisch complexer worden, maar zal die technologie ook verschillende aspecten van ons leven simpeler maken. Simpelweg iets vragen aan je slimme luidspreker in de woonkamer is veel eenvoudiger dan je smartphone of tablet te moeten oppikken, een internetpagina te openen en dan je vraag met twee duimen te typen in Google. Of <u>alle</u> technologische vooruitgang een goed idee is, dat laat ik in het midden.
+
+<br>
+<font color='lightgray'>De afbeeldingen voor deze post zijn gemaakt door de creatievelingen shanthagawri, ProSymbols (US) en Tinashe Mugayi (MY) die te vinden zijn op [The Noun Project](https://thenounproject.com).</font>
