@@ -36,4 +36,5 @@ Het gaat nóg verder. Misschien wel het meest verbazingwekkende bedrijf is [Neur
 Alleszins, in mijn ogen zal de toekomst enkel technologisch complexer worden, maar zal die technologie ook verschillende aspecten van ons leven simpeler maken. Simpelweg iets vragen aan je slimme luidspreker in de woonkamer is veel eenvoudiger dan je smartphone of tablet te moeten oppikken, een internetpagina te openen en dan je vraag met twee duimen te typen in Google. Of <u>alle</u> technologische vooruitgang een goed idee is, dat laat ik in het midden.
 
 <br>
-<font color='lightgray'>De afbeeldingen voor deze post zijn gemaakt door de creatievelingen shanthagawri, ProSymbols (US) en Tinashe Mugayi (MY) die te vinden zijn op [The Noun Project](https://thenounproject.com).</font>
+<font color='lightgray'>De afbeeldingen voor deze post zijn gemaakt door de creatievelingen shanthagawri, ProSymbols (US) en Tinashe Mugayi (MY) die te vinden zijn op The Noun Project.</font>
+<br>
