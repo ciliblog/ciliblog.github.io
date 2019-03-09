@@ -8,6 +8,8 @@ permalink: /computers/
 ![computers](../../images/computers_image_1.png)
 <br>
 
+### Technologische vooruitgang gaat snel
+
 Vraag eens aan je ouders wat voor computer er thuis stond toen ze kind waren. Het antwoord is: er stond geen computer. Er bestond misschien zelfs nog geen computer! De eerste computer bestaat dan ook nog maar sinds 1939. Toen vond Alan Turing zijn ‘Turing Machine’ uit die encrypties van de Nazi’s hielp te ontcijferen.
 
 Vandaag de dag zijn computers daarentegen niet meer weg te denken uit het dagelijkse leven. De kans is groot dat je vandaag meer computerkracht in je broekzak hebt steken dan de president van de Verenigde Staten pakweg 20 jaar geleden ter beschikking had. De technologie revolutie is enorm snel gegaan. Gordon Moore merkte al in 1965 op dat het aantal transistoren op microchips elk jaar verdubbelde. Dit fenomeen, beter bekend als ‘Moore’s Law’, is een van de drijvende krachten achter de snelle vooruitgang van computers en wat ze vandaag kunnen.
@@ -18,6 +20,8 @@ Vandaag kunnen computers veel. We gebruiken ze om te communiceren, op de hoogte 
 <br>
 
 Als je terug zou gaan de kindertijd van je ouders en hun zou zeggen dat je in 2019 met een klein toestel in je broekzak loopt dat je perfect de weg wijst van eender welk punt A naar punt B (via auto, openbaar vervoer of fiets), dan zouden ze je niet geloven. Als je hen zou vertellen dat dat toestel ook nog kan antwoorden op quasi elke vraag dat je het stelt, dan zouden ze al helemaal achterovervallen. Het zou mij dan ook niet verbazen dat ikzelf zou achterovervallen moest iemand van 2050 terugreizen naar nu om ons te vertellen wat er in de toekomst allemaal mogelijk is geworden.
+
+### De toekomst is artificieel en intelligent
 
 Inderdaad, hier stopt het niet. De (verre) toekomst zal computers kennen met ongeëvenaarde capaciteiten in vergelijking met de computers van vandaag. Veruit de meest interessante trend is artificiële intelligentie. Artificiële intelligentie is de wetenschappelijke tak die intelligente machines en de software daarachter bestudeert en ontwikkelt.
 
