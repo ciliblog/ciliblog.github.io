@@ -11,7 +11,7 @@ header-img: ../../images/computers_head.png
 
 Vraag eens aan je ouders wat voor computer er thuis stond toen ze kind waren. Het antwoord is: er stond geen computer. Er bestond misschien zelfs nog geen computer! De eerste computer bestaat dan ook nog maar sinds 1939. Toen vond Alan Turing zijn ‘Turing Machine’ uit die encrypties van de Nazi’s hielp te ontcijferen.
 
-Vandaag de dag zijn computers daarentegen niet meer weg te denken uit het dagelijkse leven. De kans is groot dat je vandaag meer computerkracht in je broekzak hebt steken dan de president van de Verenigde Staten pakweg 20 jaar geleden ter beschikking had. De technologische revolutie is enorm snel gegaan. Gordon Moore merkte al in 1965 op dat het aantal transistoren op microchips elk jaar verdubbelde. Dit fenomeen, beter bekend als ‘Moore’s Law’, is een van de drijvende krachten achter de snelle vooruitgang van computers en wat ze vandaag kunnen.
+Vandaag de dag zijn computers daarentegen niet meer weg te denken uit het dagelijkse leven. De kans is groot dat je vandaag meer computerkracht in je broekzak hebt steken dan de president van de Verenigde Staten pakweg 20 jaar geleden ter beschikking had. De technologische revolutie is enorm snel gegaan. Gordon Moore merkte al in 1965 op dat het aantal transistoren op microchips elke twee jaar verdubbelde. Dit fenomeen, beter bekend als ‘Moore’s Law’, is een van de drijvende krachten achter de snelle vooruitgang van computers en wat ze vandaag kunnen.
 
 Vandaag kunnen computers veel. We gebruiken ze om te communiceren, op de hoogte blijven van het nieuws, wiskundige formules uit te rekenen, muziek mee te luisteren, foto’s mee te trekken en nog veel meer. Het is bijna absurd hoe multifunctioneel een computer en een smartphone zijn geworden.
 
