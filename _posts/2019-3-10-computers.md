@@ -4,7 +4,7 @@ title: Hoe computers steeds meer kunnen
 header-img: ../../images/computers_head.png
 ---
 
-![computers](../../images/computers_image1.png)
+![computers](../../images/computers_image11.png)
 <br>
 
 ### Technologische vooruitgang gaat snel
