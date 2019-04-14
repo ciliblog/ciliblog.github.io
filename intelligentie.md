@@ -42,5 +42,5 @@ Zoals ik in mijn vorige blogpost al aanhaalde, zal alles nog technologisch compl
 Naarmate AI steeds meer kan, zal het aldus een extensie van onszelf worden. Het zal beter kunnen autorijden dan eender welke mens, het zal accurater hersentumoren kunnen detecteren dan dokters, het zal foto’s en video’s in detail kunnen beschrijven aan blinden en nog veel meer. AI zal echter niet alle taken van de mens overnemen, en bovendien zal het verschillende nieuwe jobs creëren. Denk maar aan psychologen die gespecialiseerd zijn in mens-robot interacties. AI zal ons de mogelijkheid geven om beter te leven door dagdagelijkse taken van ons over te nemen. Zo kunnen wij net meer focussen op de dingen die ons mens maken.
 
 <br>
-<font color='lightgray'>De afbeeldingen voor deze post zijn gemaakt door de creatievelingen Cuby design (The Noun Project) en [xkcd](https://xkcd.com).</font>
+<font color='lightgray'>De afbeeldingen voor deze post zijn gemaakt door de creatievelingen Cuby design (The Noun Project) en www.xkcd.com.</font>
 <br>
