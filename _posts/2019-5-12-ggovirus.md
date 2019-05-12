@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Een virus dat levens redt
+title: Virussen die levens redden
 header-img: ../../images/ggovirus_header.png
 ---
 
