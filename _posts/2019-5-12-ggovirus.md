@@ -4,7 +4,7 @@ title: Virussen die levens redden
 header-img: ../../images/ggovirus_header.png
 ---
 
-![intelligentie](../../images/ggovirus.png)
+![virus](../../images/ggovirus.png)
 <br>
 
 Verassend nieuws! Eerder deze week brak het nieuws uit dat voor het allereerst een meisje van een levensbedreigende bacteriële infectie genezen is door het gebruik van een genetisch gewijzigd virus! 
