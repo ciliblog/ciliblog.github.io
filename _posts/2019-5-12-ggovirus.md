@@ -7,7 +7,7 @@ header-img: ../../images/ggovirus_header.png
 ![virus](../../images/ggovirus.png)
 <br>
 
-Verassend nieuws! Eerder deze week brak het nieuws uit dat voor het allereerst een meisje van een levensbedreigende bacteriële infectie genezen is door het gebruik van een genetisch gewijzigd virus! 
+Verrassend nieuws! Eerder deze week brak het nieuws uit dat voor het allereerst een meisje van een levensbedreigende bacteriële infectie genezen is door het gebruik van een genetisch gewijzigd virus! 
 
 Na een longtransplantatie liep Isabelle Holdaday (17) een ernstige <i>Mycobacterium</i> infectie op die niet meer te genezen was met klassieke antibiotica. Isabelle lijdt aan mucoviscidose. Doordat haar longcapaciteit hierdoor drastisch afgenomen was besloten de dokters dat een longtransplantatie haar beste keuze zou zijn. De transplantatie resulteerde echter in het verspreiden van de <i>Mycobacterium</i> bacterie, een ernstige pathogeen die gelijkaardig is aan de bacterie die tuberculose veroorzaakt.
 
