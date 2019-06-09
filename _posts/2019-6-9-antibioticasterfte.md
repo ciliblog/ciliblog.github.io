@@ -2,7 +2,6 @@
 layout: post
 title: Worden er straks geen nieuwe antibiotica meer ontwikkeld?
 header-img: ../../images/antibioticasterfte_header.png
-permalink: /antibioticasterfte/
 ---
 
 ![antibiotica](../../images/antibioticasterfte.png)
