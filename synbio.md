@@ -1,0 +1,35 @@
+---
+layout: post
+title: Synthetische biologie, wat is dat?
+header-img: ../../images/synbio_header.png
+permalink: /synbio/
+---
+
+![synbio](../../images/synbio_1.png)
+<br>
+
+‘de biologische wereld is een gereedschapskist van nieuwe technologische innovaties.’ – Rob Carlson
+
+De grens tussen biologie en technologie vervaagt meer en meer. En de opkomst van synthetische biologie is daar het perfecte voorbeeld van. Synthetische biologie is het maken van biologie. Startende vanuit biologische bouwstenen zoals DNA, eiwitten, bacteriën en schimmels kunnen biologen nieuwe biologische systemen gaan creëren. Denk aan nieuwe bacteriën die de oceanen zuiveren of nieuwe planten die meer CO2 uit de lucht halen. De focus kan ook liggen op een product zoals biobrandstof, synthetisch bloed of isolatiemateriaal uit gedroogde schimmels.
+
+Conceptueel kan je synthetische biologie vergelijken met het in elkaar steken van een computer. Je wil dat een computer bepaalde eigenschappen heeft en bepaalde dingen kan doen, dus zet je verschillende stukken hardware samen om een functionele computer te hebben die voldoet aan jouw noden. Hetzelfde idee geldt bij synthetische biologie: we combineren bouwstenen om een biologisch systeem te creëren met bepaalde eigenschappen, dat aan bepaalde noden kan voldoen. Zo kunnen nieuwe biologische functies en systemen ontworpen worden die niet in de natuur voorkomen.
+
+![synbio_synlogic](../../images/synbio_2.jpg)
+
+### De wereld verbeteren door nieuwe levensvormen te maken
+
+Een van de eerste en meest bekende voorbeelden van synthetische biologie is de productie van synthetisch insuline. Historisch werden varkens geslacht om dierlijk insuline uit hun pancreas te halen. Dat proces was echter enorm inefficiënt. Een ton pancreas bracht na zuivering slechts 100 gram insuline op. In 1982 bracht Eli Lilly voor het eerst synthetisch humaan insuline op de markt. Het bedrijf was erin geslaagd om het DNA coderend voor humaan insuline in een <i>E. coli</i> bacterie over te brengen. Op die manier kon de bacterie nu gebruikt worden om humaan insuline synthetisch aan te maken via fermentatie.
+
+Een tweede, recenter voorbeeld is de productie van synthetische biobrandstoffen. Al in 2009 sloten [ExxonMobil](https://www.exxonmobil.be) en [Synthetic Genomics]( https://www.syntheticgenomics.com/) een deal om samen fotosynthetiserende microalgen en cyanobacteriën te gebruiken om zonlicht om te zetten tot ethanol en biodiesel. Voordien was het economisch niet interessant genoeg om algen te gebruiken voor hun olieproductie op een grote schaal. Onderzoekers bij Synthetic Genomics ontdekten echter een genetische ‘schakelaar’ die kon gebruikt worden om de omzetting van koolstof naar olie te optimaliseren. Hierdoor creërden ze microalgen die snel konden groeien en tegelijkertijd ook veel olie produceerden.
+
+Beide voorbeelden zijn relatief ‘eenvoudig’ en zou je eerder kunnen rekenen tot de klassieke biotechnologie in plaats van synthetische biologie. Er zijn echter nog veel complexere toepassingen. Synthetische biologen werken bijvoorbeeld aan cellen die als biosensor kunnen gebruikt worden. Deze geprogrammeerde cellen monitoren de omgeving en kunnen  gebruikt worden om op het gepaste moment een geneesmiddel vrij te geven (bv. bij zuurstoftekort). Een ander voorbeeld zijn gewijzigde <i>E. coli</i> bacteriën die patiënten kunnen inslikken om een zeldzame metabolische ziekte te behandelen. De bacteriën herkennen wanneer ze in de maag terecht komen en beginnen daar de overmaat stikstof op te nemen. Die bacteriën werden ontwikkeld door [Synlogic](https://www.synlogictx.com), een startup uit Cambridge, Massachusetts.
+
+### Krijgt het concept leven een nieuw jasje?
+
+De opkomst van synthetische biologie en synthetisch leven stelt misschien wel het concept leven zoals we het nu kennen in vraag. Niet alleen de biologische definitie van leven, maar ook leven gezien vanuit een sociale context. De interactie tussen mens en technologie blijft voortdurend veranderen, en dat brengt vragen met zich mee. Wat zijn de positieve en negatieve aspecten van onze interactie met technologie (bv. met synthetisch leven)? Hoe trekken we grenzen m.b.t. wat toegelaten wordt om biologisch te creëren (denk aan biologische wapens)? Hoe evolueert de relatie tussen mens, technologie en natuur verder?
+
+Alles wat nieuw is, brengt initieel vragen met zich mee. Maar daarom moeten we nog niet vrezen voor wat nieuw is. We moeten net kritisch nadenken en antwoorden op onze vragen zoeken!
+
+<br>
+<font color='lightgray'>De afbeeldingen voor deze post zijn (deels) gemaakt door de creatieveling Antonio Regalado (MIT Technology Review), Payungkead en Freepik.</font>
+<br>
