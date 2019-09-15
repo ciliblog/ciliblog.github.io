@@ -22,9 +22,9 @@ Voor de meesten onder ons (mijzelf inclusief) is wiskunde vaak net geen licht ve
 
 Wiskunde leert ons ook verkennen. Vaak zijn er meerdere manieren om een bepaald probleem op te lossen, en is het dus aan jou om te gaan exploreren wat er mogelijk is. Ook dat vermogen om te verkennen is een fantastische vaardigheid om te hebben in het leven.
 
-Kortom, wiskunde kan ons verschillende vaardigheden leren die echt nuttig zijn in het leven. William Paul Thurston formuleerde het elegant: “Wiskunde gaat niet over getallen, vergelijkingen, berekeningen of algoritmen; het gaat over begrijpen.”
+Kortom, wiskunde kan ons verschillende vaardigheden leren die echt nuttig zijn in het leven. William Paul Thurston formuleerde het elegant: “Wiskunde gaat niet over getallen, vergelijkingen, berekeningen of algoritmen; het gaat over begrijpen”. Daarom ook dat er net zo een grote vraag is naar wiskunde die praktisch bruikbaar is in onze samenleving. 
 
-Daarom ook dat er net zo een grote vraag is naar wiskunde die praktisch bruikbaar is in onze samenleving. Nog steeds niet overtuigd? Wiskunde wordt in de praktijk nochtans in vele verschillende domeinen ingezet!
+Nog steeds niet overtuigd? Wiskunde wordt in de praktijk nochtans in vele verschillende domeinen ingezet!
 
 ### Bewijsstuk 2: wiskunde wordt wél in de praktijk gebruikt
 
