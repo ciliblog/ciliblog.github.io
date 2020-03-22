@@ -31,5 +31,6 @@ Dat brengt ons bij één van de grote vragen: hoe lang zal de #lockdownlight hie
 
 Een andere grote vraag: zal dit virus na deze uitbraak terugkomen volgend jaar? Volgens Dr. Anthony Fauci, topman bij de National Institutes of Health (NIH) in de VS zit die mogelijkheid er wel in. Zo’n uitbraak in de toekomst zal allicht veel minder zwaar zijn als deze eerste uitbraak, aangezien veel mensen tegen dan al immuniteit hebben opgebouwd en een geneesmiddel of vaccin potentieel tegen dan al ingezet kan worden. Natuurlijk bestaat de mogelijkheid ook dat we het virus na deze uitbraak volledig stoppen, de tijd zal het ons leren.
 
+<br>
 <font color='lightgray'>De afbeeldingen voor deze post zijn (deels) gemaakt door SPQR10 en Léa Lortal (The Noun Project).</font>
 <br>
