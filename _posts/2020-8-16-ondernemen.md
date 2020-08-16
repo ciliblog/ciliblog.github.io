@@ -27,9 +27,11 @@ Misschien nog het meest problematische voorbeeld van allemaal is de klimaatveran
 
 ### Hoe vermijden we een catastrofe?
 Door actie te nemen en nu aan oplossingen te beginnen werken. Door vooruit te denken en een plan te maken om een crisis te vermijden. Door te investeren in wetenschap en innovatie. Door de generatie van morgen op te voeden en op te leiden met een sterke zin voor kritisch – en probleemoplossend denken. En door ons allemaal open te stellen voor verandering die zal bijdragen tot een betere wereld.
+
 <br>
 
 Ik geef je nog graag het ultieme ‘versla COVID’ advies mee: Was regelmatig je handen, hou minstens 1.5m afstand van mensen, hou een persoonlijke bubbel van maximum 5 personen per gezin aan, blijf thuis als je ziek bent en draag een mondmasker waar verplicht of nodig. Let’s go!
+
 <br>
 
 <font color='lightgray'>De afbeeldingen voor deze post zijn (deels) gemaakt door Mohamed Mbarki van The Noun Project.</font>
