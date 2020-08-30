@@ -8,4 +8,4 @@ permalink: /about/
 
 <p align="center"> Cili start met een simpel basisidee: jou een inzicht geven in de kracht van biotechnologie, computeralgoritmen en alles daarrond. Cili is daarom een blog die een luchtige maar wetenschappelijke kijk geeft op fascinerende (bio)tech dat wel eens een impact kan hebben op je leven. Het geeft je een kijkje in cutting-edge wetenschap en hoe die vooruitgang boekt en doet dat op een toegankelijke manier voor mensen met eender welke achtergrond. </p>
 
-<p align=center"> Het ultieme doel is dit idee veel verder te trekken dan een blog en in de vorm van een nieuwe school - een nieuwe vorm van onderwijs - huidige en toekomstige generaties op te leiden en zo goed mogelijk klaar te maken voor hoe de toekomst er zal uitzien en welke vaardigheden daarbij nodig zijn. </p>
+<p align="center"> Het ultieme doel is dit idee veel verder te trekken dan een blog en in de vorm van een nieuwe school - een nieuwe vorm van onderwijs - huidige en toekomstige generaties op te leiden en zo goed mogelijk klaar te maken voor hoe de toekomst er zal uitzien en welke vaardigheden daarbij nodig zijn. </p>
