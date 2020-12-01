@@ -31,7 +31,7 @@ Als je het proces van een faag die een bacterie infecteert zou volgen, dan zie j
 ### Lysines werken als schaartjes
 Om die bacteriën uit elkaar te laten spatten gebruiken fagen speficieke eiwitten, enzymen, dat lysines genoemd worden. Lysines kan je bijna letterlijk zien als kleine, moleculaire schaartjes of PacMannetjes. Die lysines breken de celwand van de bacterie open zodat die helemaal uit elkaar valt. Het interessante aan lysines is dat ze uit verschillende stukjes of modules bestaan. Elk van die stukjes kan veranderd worden of uitgewisseld worden om een nieuw enzym met nieuwe eigenschappen te vormen. Op die manier kan je heeeeel veel combinaties maken om verschillende bacteriën te gaan bestrijden.
 
-## Probiotica: micro-organismen met een positief effect
+### Probiotica: micro-organismen met een positief effect
 Ten derde zijn er nog probiotica. Dat zijn levende micro-organismen die in een bepaalde hoeveelheid kunnen toegediend worden aan de mens en zo een positief effect kunnen hebben op de gezondheid. Het gaat vaak om specifieke mengsels van bacteriën die zowel therapeutisch als profylactisch kunnen worden toegepast. Een voorbeeld is bij het behandelen van Clostridium-gerelateerde diaree en antibiotica-gerelateerde diaree. Er moet nu in de eerste plaats wel nog wat onderzoek gebeuren naar hoe de positieve effecten van probiotica net in zijn werk gaan (welke invloed hebben die micro-organismen net op ons darmmicrobioom). Ook nog een interessante piste is het onderzoeken van de effecten van probiotica in combinatie met andere alternatieven zoals fagen.
 
 ![alternatieven](../../images/antibiotica_alternatieven.png)
