@@ -58,6 +58,8 @@ Dit alles is meer dan genoeg om optimistisch te zijn over het komende jaar. Maar
 
 Er zijn ook nog een aantal dingen die we niet (goed) weten. We weten nog niet goed hoe lang de verschillende vaccins bescherming zullen bieden tegen besmetting van het virus. Daarom net lopen die klinische studies nog verder en worden personen die gevaccineerd werden opgevolgd om deze vraag te kunnen beantwoorden. We weten ook nog niet goed of het vaccin naast het voorkomen dat je ziek wordt ook voorkomt dat je het virus doorgeeft (moest je besmet geraken). Dat zijn studies die momenteel nog aan de gang zijn. Daarom is het belangrijk dat we de maatregelen die van kracht zijn blijven volhouden, ook nadat er gevaccineerd is (voorlopig toch). Tenslotte weten we ook niet of het virus ooit helemaal weg zal zijn. Er bestaat een kans dat we zullen moeten leren leven met COVID-19, net zoals met de griep. Dat valt nog af te wachten. In elk geval is de belangrijkste taak voor 2021 de pandemie onder controle krijgen. En ongetwijfeld zijn vaccins een belangrijk stuk in die puzzel.
 
+Heb je opmerkingen of bedenkingen? Aarzel niet om mij te contacteren! Ik ben altijd benieuwd om je mening of standpunt te horen.
+
 <br>
 
 <font color='lightgray'>De afbeeldingen voor deze post zijn (deels) gemaakt door SciTechDaily, Koson Rattanaphan (the Noun Project) en Georgiana Ionescu (the Noun Project).</font>
