@@ -60,5 +60,5 @@ Er zijn ook nog een aantal dingen die we niet (goed) weten. We weten nog niet go
 
 <br>
 
-<font color='lightgray'>De afbeeldingen voor deze post zijn (deels) gemaakt door Koson Rattanaphan en Georgiana Ionescu van the Noun Project.</font>
+<font color='lightgray'>De afbeeldingen voor deze post zijn (deels) gemaakt door SciTechDaily, Koson Rattanaphan (the Noun Project) en Georgiana Ionescu (the Noun Project).</font>
 <br>
