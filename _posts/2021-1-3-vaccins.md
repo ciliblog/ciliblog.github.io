@@ -21,7 +21,7 @@ Het is finaal belangrijk om in te zien dat je van het vaccin zelf, dat enkel een
 ### Wat weten we over de veiligheid van die vaccins?
 Elk geneesmiddel of vaccin wordt in verschillende stadia ontwikkeld en getest. Zo'n procedure wordt vastgelegd door onafhankelijke autoriteiten (de FDA in de VS en het EMA in Europa) en wordt door diezelfde autoriteiten beoordeeld vooraleer het geneesmiddel of vaccin op de markt mag worden gebracht.
 
-De belangrijkste fases van die procedure zijn de klinische studies, waarbij het vaccin getest wordt op mensen. De twee belangrijkste aspecten hier zijn veiligheid (is het vaccin veilig om aan de mens toe te dienen) en effectiviteit (voorkomt het vaccin de ziekte die we willen voorkomen). Doorheen die klinische studies wordt het vaccin daarom heel zorgvuldig getest op tussen de 20 000 à 40 000 vrijwilligers. Op die manier wordt heel goed in kaart gebracht hoe veilig het vaccin is, hoe effectief het is en wat voor bijwerkingen het vaccin teweeg brengt.
+De belangrijkste fases van die procedure zijn de klinische studies, waarbij het vaccin getest wordt op mensen. De twee belangrijkste aspecten hier zijn veiligheid (is het vaccin veilig om aan de mens toe te dienen) en effectiviteit (voorkomt het vaccin de ziekte die we willen voorkomen). Doorheen de klinische studies van Pfizer en Moderna werd het vaccin daarom heel zorgvuldig getest op tussen de 20 000 à 40 000 vrijwilligers. Op die manier werd heel goed in kaart gebracht hoe veilig het vaccin is, hoe effectief het is en wat voor bijwerkingen het vaccin teweeg brengt.
 
 ![klinische studies](../../images/CDCtrials.jpeg)
 <br>
