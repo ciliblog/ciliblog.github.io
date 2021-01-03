@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Wat moet je weten over de mRNA vaccins tegen COVID-19?
+title: Wat moet je weten over de mRNA-vaccins tegen COVID-19?
 header-img: ../../images/vaccins_header.png
 ---
 
 ![vaccins_head](../../images/vaccins_1.png)
 <br>
 
-De verschillende corona vaccins, we komen er tegenwoordig overal wel mee in contact. Ze zijn dan ook een belangrijk puzzelstuk in onze strijd tegen de pandemie en in onze weg terug naar een normaal leven. De snelle ontwikkeling van de vaccins roept ook terecht vele vragen op. Er zijn sterke voorstanders van vaccins en ook sterke tegenstanders, elk met zijn eigen meningen. Of je was misschien kritisch over het coronabeleid en bent daarom nu ook kritisch over de vaccins. In deze blogpost kijk ik niet naar meningen, maar naar wetenschap. Aan de hand van vijf vragen leg ik je de belangrijkste informatie rond de mRNA vaccins uit. Laten we starten bij de meest fundamentele vraag.
+De verschillende corona vaccins, we komen er tegenwoordig overal wel mee in contact. Ze zijn dan ook een belangrijk puzzelstuk in onze strijd tegen de pandemie en in onze weg terug naar een normaal leven. De snelle ontwikkeling van de vaccins roept ook terecht vele vragen op. Er zijn sterke voorstanders van vaccins en ook sterke tegenstanders, elk met zijn eigen meningen. Of je was misschien kritisch over het coronabeleid en bent daarom nu ook kritisch over de vaccins. In deze blogpost kijk ik niet naar meningen, maar naar wetenschap. Aan de hand van vijf vragen leg ik je de belangrijkste informatie rond de mRNA-vaccins uit. Laten we starten bij de meest fundamentele vraag.
 
-### Hoe werken de mRNA vaccins van Pfizer/BioNTech en Moderna?
+### Hoe werken de mRNA-vaccins van Pfizer/BioNTech en Moderna?
 Het is een natuurlijk proces in elk biologisch organisme: je genetische code (DNA) wordt omgezet tot een gelijkaardige variant van die code (mRNA) en dan vertaald tot een eiwit dat een functie uitoefent in het lichaam. Je kan dat mRNA dus vrij letterlijk zien als een instructie voor je lichaamscellen om iets te produceren. Het interessante aan dit proces is dat we ook nieuwe instructies kunnen meegeven aan de cel. En dat vormt de basis van de vaccins die ontwikkeld zijn door Pfizer/BioNTech en Moderna.
 
 Het belangrijke hierbij is dat we op voorhand goed kiezen welke instructie we net doorgeven aan de cel zodat we bereiken wat we willen bereiken: immuniteit tegen het virus. Het typische uitsteeksel van dat nieuwe Coronavirus, het zogenaamde S-eiwit, is daarom een goede keuze, net omdat het langs de buitenkant zit en zo makkelijk herkend kan worden.
@@ -37,7 +37,7 @@ De eerste reden heeft te maken met de klinische studies. In normale omstandighed
 
 Ten tweede hebben we de snelle ontwikkeling te danken aan de enorme tijdsinvestering die werd gemaakt. Letterlijk duizenden wetenschappers over de hele wereld hebben begin januari alles laten vallen om zich volop te focussen op het bestuderen van het nieuwe Coronavirus en het zoeken naar een vaccin. Daarenboven komt nog dat die wetenschappers wereldwijd ook enorm hebben samengewerkt door het openstellen van onderzoeksresultaten en data wat zorgde voor een enorme synergie. En er werden ook simpelweg meer mensen bij betrokken dan ooit tevoren. In de Gentse groep van Isabel Leroux-Roels bijvoorbeeld werd al heel snel gestart met het testen van kandidaat-vaccins om verschillende bedrijven bij te staan en werden daarbij ook tien nieuwe mensen opgeleid.
 
-De derde reden heeft te maken met de nieuwe mRNA technologie waar deze vaccins gebruik van maken. Het is niet per toeval dat deze vaccins net de eersten zijn die de klinische studies succesvol hebben doorlopen. Anders dan vaccins in het verleden kunnen deze mRNA vaccins veel sneller geproduceerd (en dus ook getest) worden dan andere types vaccins. Dat komt net omdat die mRNA vaccins niets meer zijn dan een eenvoudige instructie voor de cel (zie eerder). Het is veel eenvoudiger die kleine code in grote hoeveelheden te produceren dan bijvoorbeeld het S-eiwit zelf te moeten produceren.
+De derde reden heeft te maken met de nieuwe mRNA-technologie waar deze vaccins gebruik van maken. Het is niet per toeval dat deze vaccins net de eersten zijn die de klinische studies succesvol hebben doorlopen. Anders dan vaccins in het verleden kunnen deze mRNA-vaccins veel sneller geproduceerd (en dus ook getest) worden dan andere types vaccins. Dat komt net omdat die mRNA-vaccins niets meer zijn dan een eenvoudige instructie voor de cel (zie eerder). Het is veel eenvoudiger die kleine code in grote hoeveelheden te produceren dan bijvoorbeeld het S-eiwit zelf te moeten produceren.
 
 ### Zijn de farmareuzen wel te vertrouwen?
 Je kan je terecht vragen stellen bij het feit dat grote farmabedrijven geld verdienen aan zieke mensen of veel te hoge winstmarges hebben. Maar het is belangrijk om het wetenschappelijke los te zien van het economische. Wat voor de bevolking en voor het eindigen van deze pandemie het belangrijkste is, is het wetenschappelijke aspect. Namelijk dat de vaccins veilig zijn en ook effectief werken. Je kan het business model erachter wantrouwen of er niet akkoord mee zijn, en dat is je goed recht. Maar over het wetenschappelijke aspect kan je niet twijfelen, want dat is zwart op wit aangetoond in alle voorafgaande studies.
@@ -48,10 +48,10 @@ Er werd ook veel werk uitgevoerd door vakgroepen over de hele wereld. Het team v
 
 Het ging zelfs nog verder: de hele bevolking kon computerkracht doneren aan het Folding@Home project dat de 3D structuren van de Coronavirus eiwitten via algoritmen probeerde te achterhalen. Zo probeerde het project onderdelen te vinden waar geneesmiddelen aan zouden kunnen binden. Zelfs instituten als CERN en LHC doneerden rekencapaciteit aan het project.
 
-### Hoe weten zeker dat zo'n mRNA vaccin wel echt is en doet wat ze zeggen dat het doet?
+### Hoe weten zeker dat zo'n mRNA-vaccin wel echt is en doet wat ze zeggen dat het doet?
 Enerzijds weten we dat door de strikte klinische studies die zijn uitgevoerd (zie eerder). De autoriteiten kijken er streng op toe dat alle aspecten van het vaccin (gaande van de formulering, de exacte code voor de instructie, de veiligheid en effectiviteit) grondig worden geëvalueerd vooraleer er toestemming gegeven wordt om het vaccin op de markt te brengen.
 
-Aangezien het om een mRNA vaccin gaat kan ook relatief eenvoudig nagegaan worden wat het stukje code van het vaccin exact doet. Die code is namelijk publiek beschikbaar en kan dus door iedereen bekeken en bestudeerd worden. Deze [blogpost](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) gaat bijvoorbeeld in groot detail in op de verschillende onderdelen in de mRNA code van het Pfizer-BioNTech vaccin en legt uit wat elk onderdeel doet (in het Engels).
+Aangezien het om een mRNA-vaccin gaat kan ook relatief eenvoudig nagegaan worden wat het stukje code van het vaccin exact doet. Die code is namelijk publiek beschikbaar en kan dus door iedereen bekeken en bestudeerd worden. Deze [blogpost](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) gaat bijvoorbeeld in groot detail in op de verschillende onderdelen in de mRNA code van het Pfizer-BioNTech vaccin en legt uit wat elk onderdeel doet (in het Engels).
 
 ### Tot slot
 Dit alles is meer dan genoeg om optimistisch te zijn over het komende jaar. Maar we moeten ook realistisch blijven. Het nieuwe Coronavirus zal niet zomaar plots verdwijnen, maar rustig en geleidelijk aan uit beeld verdwijnen. De kans is reëel dat de curves pas zakken naar echt veilige niveaus van zodra de lente aanbreekt en het leven in de buitenlucht hervat [schrijven]( https://www.tijd.be/politiek-economie/belgie/algemeen/het-jaar-waarin-alles-beter-moet-worden/10274733.html) Stefaan, Bart en Jean in De Tijd.
