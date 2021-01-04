@@ -48,7 +48,7 @@ Er werd ook veel werk uitgevoerd door vakgroepen over de hele wereld. Het team v
 
 Het ging zelfs nog verder: de hele bevolking kon computerkracht doneren aan het Folding@Home project dat de 3D structuren van de Coronavirus eiwitten via algoritmen probeerde te achterhalen. Zo probeerde het project onderdelen te vinden waar geneesmiddelen aan zouden kunnen binden. Zelfs instituten als CERN en LHC doneerden rekencapaciteit aan het project.
 
-### Hoe weten zeker dat zo'n mRNA-vaccin wel echt is en doet wat ze zeggen dat het doet?
+### Hoe weten we zeker dat zo'n mRNA-vaccin wel echt is en doet wat ze zeggen dat het doet?
 Enerzijds weten we dat door de strikte klinische studies die zijn uitgevoerd (zie eerder). De autoriteiten kijken er streng op toe dat alle aspecten van het vaccin (gaande van de formulering, de exacte code voor de instructie, de veiligheid en effectiviteit) grondig worden geëvalueerd vooraleer er toestemming gegeven wordt om het vaccin op de markt te brengen.
 
 Aangezien het om een mRNA-vaccin gaat kan ook relatief eenvoudig nagegaan worden wat het stukje code van het vaccin exact doet. Die code is namelijk publiek beschikbaar en kan dus door iedereen bekeken en bestudeerd worden. Deze [blogpost](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) gaat bijvoorbeeld in groot detail in op de verschillende onderdelen in de mRNA code van het Pfizer-BioNTech vaccin en legt uit wat elk onderdeel doet (in het Engels).
