@@ -6,7 +6,9 @@ header-img: ../../images/nieuwenormaal_header.png
 
 ![nieuwenormaal_head](../../images/nieuwenormaal_1.png)
 <br>
+
 We zitten er nu al lang mee, die (stomme) COVID-pandemie. Maar door de aanstaande vaccinatiecampanges kunnen we zo stilaan vooruit beginnen kijken, naar wanneer dingen weer 'normaal' zullen zijn. De vraag is nog hoe dat ‘normaal’ er zal uit zien. Zal de pandemie blijvende veranderingen nalaten, of gaan we snel terug naar onze oude gewoonten en gebruiken? Het antwoord lijkt mij ergens in het midden te liggen. Daarom neem ik in deze blogpost vier aspecten onder de loep: mRNA-technologie, de digitalisering in het onderwijs, onze vrije tijd en wetenschap in de toekomst.
+
 ### Het bestrijden van pathogenen en andere ziekten
 
 mRNA-vaccins zijn vandaag meer dan ooit in de belangstelling, maar het idee van mRNA-vaccins is eigenlijk al ongeveer dertig jaar oud! Onderzoekers in Frankrijk (bij wat nu Sanofi Pasteur is) gebruikten toen voor het eerst een RNA-molecule dat codeerde voor een influenza eiwit in muizen. De technologie stond toen echter nog in zijn kinderschoenen en was nog lang niet genoeg ontwikkeld om vaccins mee te produceren die voldoen aan de veiligheidsnormen voor gebruik in mensen. Het is bijvoorbeeld pas sinds recent mogelijk geworden om RNA te synthetiseren aan voldoende hoge kwaliteit. 
